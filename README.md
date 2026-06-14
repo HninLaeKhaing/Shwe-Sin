@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Shwe Sin Shopkeeper
 
 A simple mobile-first shopkeeper web app for adding items, storing their photo, name, amount, and price, and searching items quickly in English or Burmese.
@@ -23,3 +24,6 @@ npm run build
 ```
 
 Deploy the project to Vercel as a standard Next.js app.
+=======
+# Shwe-Sin
+>>>>>>> df2df8a5bb0d387d678bb637876d864e4614be93
